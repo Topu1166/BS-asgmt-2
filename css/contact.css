@@ -1,0 +1,86 @@
+*{
+  margin:0px;
+  padding:0px;
+  }
+  header{
+    border-bottom:5px solid #E4E4E4;
+  }
+  header .head1{
+    padding-top: 30px;
+  }
+  header .head1 img{
+    margin-left: -132px;
+    margin-top: -15px;
+  }
+  header .head2{
+    padding-top: 30px;
+    margin-left: 40px;
+  }
+  header .head2 ul{
+  list-style:none;
+  }
+  header .head2 li{
+  display:inline-block;
+  }
+  header .head2 a{
+  text-decoration: none;
+  font-size: 12px;
+  color: #005D7F;
+  }
+
+  /* Contact section Contact Section  */
+  .contact{
+    background: #F04838;
+  }
+  .contact .contact1{
+    margin-left: 50px;
+  }
+  .contact .contact1 h2{
+    color: #fff;
+    margin-top: 50px; 
+  }
+  .contact .contact1 img{
+    /* width:100%;
+    height: auto; */
+  }
+  .contact .contact1 p{
+   color: #FFF;
+    width: 53%;
+    margin-top: -43px;
+    margin-bottom: 40px;
+    font-size: 13px;
+  }
+  .contact .contact2{
+    margin-left: 53px;
+    margin-bottom: 30px;
+  }
+  .contact .contact3{
+    margin-left: -40px;
+    margin-right: -118px;
+    margin-bottom: 30px;
+}
+.contact .contact4{
+  margin-top: 72px;
+}
+.contact .contact4 img{
+  cursor: pointer;
+}
+.contact .name{
+  background: #FF6153;
+  border: none;
+  width: 65%;
+  padding: 6px;
+}
+.contact label{
+  color: #fff;
+  font-size: 12px;
+}
+
+.footer{
+text-align: center;
+font-size: 12px;
+color: #fff;
+}
+.footer p{
+padding:10px;
+}

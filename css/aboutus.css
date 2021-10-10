@@ -1,0 +1,84 @@
+*{
+margin:0px;
+padding:0px;
+}
+header{
+  border-bottom:5px solid #E4E4E4;
+}
+header .head1{
+  padding-top: 30px;
+}
+header .head1 img{
+  margin-left: -132px;
+  margin-top: -15px;
+}
+header .head2{
+  padding-top: 30px;
+  margin-left: 40px;
+}
+header .head2 ul{
+list-style:none;
+}
+header .head2 li{
+display:inline-block;
+}
+header .head2 a{
+text-decoration: none;
+font-size: 12px;
+color: #005D7F;
+}
+/* About section == About Section  */
+.about{
+  padding-top: 45px;
+  padding-bottom: 36px;
+}
+.about .about1{
+
+}
+.about .about1 h2{
+  margin-top: 10%;
+  margin-left: 25px;
+}
+.about .about1 .para{
+  font-size: 13px;
+  width: 100%;
+  margin-left: 30px;
+  margin-top: 25px;
+  line-height: 25px;
+}
+.about .about1 p{
+  font-size: 13px;
+  width: 100%;
+  margin-left: 30px;
+  margin-top: 55px;
+  line-height: 25px;
+}
+.about .about2{
+  font-size: 15px;
+    width: 60%;
+    margin-left: 85px;
+    padding-top: 20px;
+}
+.about .about2 img{
+  margin-left: -22px;
+  width: 100%;
+  height: auto;
+  margin-top: 23px;
+}
+.about .about2 p{
+  font-size: 13px;
+  width: 100%;
+  margin-left: 30px;
+  margin-top: 80px;
+  line-height: 25px;
+}
+.footer{
+  background: #F13E2C;
+  padding:10px;
+  text-align:center;
+  color:#FFF;
+}
+.footer p{
+  margin-top:15px;
+  font-size: 12px;
+}
